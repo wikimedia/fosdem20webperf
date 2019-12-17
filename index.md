@@ -55,3 +55,16 @@ Come learn about how browsers try to guess in what order web page resources shou
 <img class="speaker"  src="https://fosdem.org/2020/schedule/speaker/robin_marx/ce4ed33a1749a05bbd20d2aded1f58a03331379c4c664ae82b57cded6e534b01.jpg">
   </div>
 </div>
+
+### Nicolás Peña Moreno - Shipping a performance API on Chromium
+
+<div style="display: grid; column-gap: 1em;">
+<div style="grid-column-start: 1;">  
+<img class="speaker"  src="https://fosdem.org/2020/schedule/speaker/nicolas_pena_moreno/006184ec9949d754db6df8c52a00a032d8bd3b688a94d7f6a44cc9c5569b544d.png">
+  </div>
+  <div style="grid-column-start: 2;">   
+    <i>Experiences from shipping the Element Timing API</i><br><br>
+Adding new web performance APIs to the web is a complex process. In this talk, I'll go over the steps we went through to ship the Element Timing API in Chromium, which enables measuring rendering timing of image and text content. You'll learn about the process to ship an API exposing performance information to web developers. There were many steps involved in the process: engaging with developers and other browser vendors, brainstorming, privacy and security reviews, Origin Trials, posting an Intent, and addressing questions and ideas after the API has shipped.<br><br>
+    <i>Nicolás is a software engineer of the Google Chrome team who works on web performance APIs. </i>
+</div>
+</div>
