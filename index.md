@@ -16,3 +16,16 @@ Boomerang is an open-source Real User Monitoring (RUM) JavaScript library used b
     <i>Nic is a software developer at Akamai building high-performance websites, apps and open-source tools.</i>
 </div>
 </div>
+
+### Dario Rossi - Metrics and models for Web performance evaluation
+
+<div style="display: grid; column-gap: 1em;">
+<div style="grid-column-start: 2;">  
+<img class="speaker"  src="https://fosdem.org/2020/schedule/speaker/dario_rossi/aff2fa895211a17ad83ee0094e845dbad0ef45da80f6ff903b9a6dd2b1e87903.png">
+  </div>
+  <div style="grid-column-start: 1;">   
+    <i>How to measure SpeedIndex from raw encrypted packets, and why it matters</i><br><br>
+The World Wide Web is still among the most prominent Internet applications. While the Web landscape has been in perpetual movement since the very beginning, these last few years have witnessed some noteworthy proposals such as SPDY, HTTP/2 and QUIC, which profoundly reshape the application-layer protocols family. To measure the impact of such changes, going beyond the classic W3C notion of page load time, a number of Web performance metrics has been proposed (such as SpeedIndex, Above-The-Fold and variants). At the same time, there is still a limited amount of understanding on how these metrics correlate with the user perception (e.g., such as user ratings, user-perceived page load time, etc.). In this talk, we discuss the state of the art in metrics and models for Web performance evaluation, and their correlation with user experience through several real-world studies.<br><br>
+    <i>Dario Rossi is a Chief Expert on Network AI at Huawei Technologies, co. Ltd.</i>
+</div>
+</div>
