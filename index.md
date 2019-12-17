@@ -39,6 +39,19 @@ The World Wide Web is still among the most prominent Internet applications. Whil
   <div style="grid-column-start: 2;">   
     <i>Fonts are lovely but can slow down our loads. How can we make them faster?</i><br><br>
 We all love fonts. From Google Fonts to Typekit, Hoefler&Co and more, they give character and tone to our websites. The down side of fonts is that they can really slow down our loads. In this talk we'll learn about common pitfalls like critical requests depth and how to use resource hints to play tricks with latency to load web applications faster. We'll walk through a network profile to understand what's going on in the browser and how to make it faster.<br><br>
-    <i>Sia Karamalegos is a performance engineer, developer, international conference speaker, and writer. She is a Google Developer Expert in Web Technologies and a Women Techmakers ambassador. She co-organizes GDG New Orleans and its marquee event, DevFest New Orleans. She is the founder and lead developer for Clio + Calliope Web Development and was recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. When she's not coding, speaking, or consulting, Sia likes to write short stories and dabble in charcoal figure drawing. She's also an avid endurance athlete.</i>
+    <i>Sia Karamalegos is a performance engineer, developer, international conference speaker, and writer.</i>
 </div>
+</div>
+
+### Robin Marx - The ultimate guide to HTTP resource prioritization
+
+<div style="display: grid; column-gap: 1em;">
+  <div style="grid-column-start: 1;">   
+    <i>How to make sure your data arrives at the browser in the optimal order</i><br><br>
+Come learn about how browsers try to guess in what order web page resources should be loaded and how servers use that information to often (accidentally) make your web page slower instead. We look at what resource prioritization is, how it's often implemented terribly in modern HTTP/2 stacks and how we're trying to fix it in QUIC and HTTP/3. We use clear visualizations and images to help explain the nuances in this complex topic and also muse a bit on whether prioritization actually has that large an impact on web performance.<br><br>
+    <i>Robin Marx is a web performance researcher at Hasselt University, Belgium.</i>
+</div>
+<div style="grid-column-start: 2;">  
+<img class="speaker"  src="https://fosdem.org/2020/schedule/speaker/robin_marx/ce4ed33a1749a05bbd20d2aded1f58a03331379c4c664ae82b57cded6e534b01.jpg">
+  </div>
 </div>
