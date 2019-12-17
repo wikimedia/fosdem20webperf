@@ -6,7 +6,7 @@ From 15:00 until 19:00 on February 1st in Brussels, come check out these awesome
 
 ### Nic Jansma - Check Yourself Before You Wreck Yourself
 
-<div stryle="display: grid | inline-grid;">
+<div style="display: grid | inline-grid;">
 <div style="grid-column-start: 1;">  
 <img class="speaker"  src="https://fosdem.org/2020/schedule/speaker/nic_jansma/68dbe48424f9ca23a1a03bad4aec643c9f69a0085fafe6909fe70f5b6838308a.jpg">
   </div>
