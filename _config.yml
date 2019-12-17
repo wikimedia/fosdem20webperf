@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: FOSDEM 2020 Web Performance devroom
 description: Brussels, Belgium - February 1st 2020
+show_downloads: false
