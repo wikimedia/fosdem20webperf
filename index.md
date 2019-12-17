@@ -29,3 +29,16 @@ The World Wide Web is still among the most prominent Internet applications. Whil
 <img class="speaker"  src="https://fosdem.org/2020/schedule/speaker/dario_rossi/aff2fa895211a17ad83ee0094e845dbad0ef45da80f6ff903b9a6dd2b1e87903.png">
   </div>
 </div>
+
+### Sia Karamalegos - Hint, Hint, Font Loading Matters!
+
+<div style="display: grid; column-gap: 1em;">
+<div style="grid-column-start: 1;">  
+<img class="speaker"  src="https://fosdem.org/2020/schedule/speaker/sia_karamalegos/311e566ba03f332d8846ca2e790996152a00cad783e6f30151ccf76327239b59.jpg">
+  </div>
+  <div style="grid-column-start: 2;">   
+    <i>Fonts are lovely but can slow down our loads. How can we make them faster?</i><br><br>
+We all love fonts. From Google Fonts to Typekit, Hoefler&Co and more, they give character and tone to our websites. The down side of fonts is that they can really slow down our loads. In this talk we'll learn about common pitfalls like critical requests depth and how to use resource hints to play tricks with latency to load web applications faster. We'll walk through a network profile to understand what's going on in the browser and how to make it faster.<br><br>
+    <i>Sia Karamalegos is a performance engineer, developer, international conference speaker, and writer. She is a Google Developer Expert in Web Technologies and a Women Techmakers ambassador. She co-organizes GDG New Orleans and its marquee event, DevFest New Orleans. She is the founder and lead developer for Clio + Calliope Web Development and was recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. When she's not coding, speaking, or consulting, Sia likes to write short stories and dabble in charcoal figure drawing. She's also an avid endurance athlete.</i>
+</div>
+</div>
