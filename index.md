@@ -68,3 +68,17 @@ Adding new web performance APIs to the web is a complex process. In this talk, I
     <i>Nicolás is a software engineer of the Google Chrome team who works on web performance APIs. </i>
 </div>
 </div>
+
+### Stefan Burnicki & Nils Kuhn - The journey of building OpenSpeedMonitor
+
+<div style="display: grid; column-gap: 1em;">
+  <div style="grid-column-start: 1;">   
+    <i>Learnings from unexpectedly finding ourselves developing a FLOSS project</i><br><br>
+Keeping track caring about web performance is hard with constantly changing standards, improving browsers, frameworks and devices. It gets even harder when you develop a tool meeting these changing requirements. Eight years ago, as an IT service provider, we were faced with the task of permanently monitoring the performance of one of the largest e-commerce platforms. After the initial use of WebPagetest, we quickly needed to develop our own features. What started as minor extensions became a separate project over time. In this talk, we would like to take you on the journey we have taken developing OpenSpeedMonitor. You will hear about some unexpected challenges, what we learned the hard way and why we would have failed years ago, if we didn't decide to develop FLOSS.<br><br>
+    <i>Stefan is a full-stack developer who came into contact with open source software as a child, which strongly influenced his career choice. </i>
+</div>
+<div style="grid-column-start: 2;">  
+<img class="speaker"  src="https://fosdem.org/2020/schedule/speaker/stefan_burnicki/27e1e68ce2b17a7101bafe6e95702c6b2cf1c24787529d0426ad8916af4a77cc.jpg">
+<img class="speaker"  src="https://fosdem.org/2020/schedule/speaker/nils_kuhn/e7c878dd63c6549c10ac1d14a57c6d0d4848bbf86d5b6155275e08c57efec778.jpg">
+  </div>
+</div>
