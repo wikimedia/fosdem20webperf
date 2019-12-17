@@ -1,6 +1,6 @@
 ## Join us for an afternoon of web performance talks!
 
-The [Wikimedia Foundation Performance team](https://www.mediawiki.org/wiki/Wikimedia_Performance_Team) is proud to organize the first-ever [Web Performance devroom](https://fosdem.org/2020/schedule/track/web_performance/) at [FOSDEM 2020](https://fosdem.org/2020/).
+The [Wikimedia Foundation Performance team](https://www.mediawiki.org/wiki/Wikimedia_Performance_Team) proudly presents the first-ever [Web Performance devroom](https://fosdem.org/2020/schedule/track/web_performance/) at [FOSDEM 2020](https://fosdem.org/2020/).
 
 From 15:00 until 19:00 on February 1st in Brussels, come check out these awesome talks!
 
