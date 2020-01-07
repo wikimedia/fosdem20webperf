@@ -4,6 +4,8 @@ The [Wikimedia Foundation Performance team](https://www.mediawiki.org/wiki/Wikim
 
 From [15:00 until 19:00](https://fosdem.org/2020/schedule/track/web_performance/) on February 1st in [Brussels](https://fosdem.org/2020/practical/transportation/), come check out these awesome web performance talks!
 
+All talks will be live-streamed and the videos made available after the conference, for free.
+
 ### Nic Jansma - Check Yourself Before You Wreck Yourself
 
 <div style="display: grid; column-gap: 1em;">
