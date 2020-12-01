@@ -2,11 +2,9 @@
 title: ""
 ---
 
-## Join us for an afternoon of web performance talks!
+## An afternoon of awesome web performance talks
 
-The [Wikimedia Foundation Performance team](https://www.mediawiki.org/wiki/Wikimedia_Performance_Team) proudly presents the first-ever [Web Performance devroom](https://fosdem.org/2020/schedule/track/web_performance/) at [FOSDEM 2020](https://fosdem.org/2020/).
-
-From [15:00 until 19:00](https://fosdem.org/2020/schedule/track/web_performance/) on February 1st in [Brussels](https://fosdem.org/2020/practical/transportation/), come check out these awesome web performance talks!
+The [Wikimedia Foundation Performance team](https://www.mediawiki.org/wiki/Wikimedia_Performance_Team) proudly hosted the first-ever [Web Performance devroom](https://fosdem.org/2020/schedule/track/web_performance/) at [FOSDEM 2020](https://fosdem.org/2020/).
 
 All talks were live-streamed and [published](https://video.fosdem.org/2020/H.1309/) by FOSDEM, under a [Creative Commons license](http://creativecommons.org/licenses/by/2.0/be/deed.en).
 
